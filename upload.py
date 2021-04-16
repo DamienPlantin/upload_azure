@@ -9,7 +9,7 @@ from azure.storage.blob import BlobServiceClient
 
 conteneur = os.environ['conteneur']
 stockage = os.environ['stockage']
-path = "C:/Users/Damien/Desktop/Simplon/Git/Azure_storage/Dossier_upload/"
+path = "C:/Users/.."
 All = os.listdir(path)
 
 
